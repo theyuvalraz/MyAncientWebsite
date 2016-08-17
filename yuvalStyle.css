@@ -1,0 +1,80 @@
+body {
+    background-image:url(px_by_Gre3g_@2X.png);
+}
+
+#cv{
+    color: azure;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Secular One', sans-serif;
+}
+
+#numberLink{
+    color: azure;
+}
+
+#contactInfo{
+    border-top-style: double;
+    border-top-color: chartreuse;
+    border-bottom-style: double;
+    border-bottom-color: chartreuse;
+    text-align: center;
+    font-size: 25px;
+}
+
+h1 {
+    color: #d26eff;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+#myName{
+    color: #d26eff;
+}
+
+
+
+h2 {
+    color: #d26eff;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
+    padding: 20px;
+    border: solid;
+    border-bottom-color: #d26eff;
+}
+
+h3 {
+    text-align: right;
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+dt.listDescription{
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+ul.workHistory{
+    
+    list-style-position:inside;
+}
+
+ul.workHistory li{
+    margin-right: 30px;
+}
+
+dd{
+    font-size: 18px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.LI-profile-badge{
+}
