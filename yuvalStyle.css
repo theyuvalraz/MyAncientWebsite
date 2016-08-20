@@ -1,63 +1,75 @@
 body {
-    background-image:url(px_by_Gre3g_@2X.png);
+    background-image:url("Untitled.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: top right;
+
 }
 
 #cv{
     color: azure;
-    max-width: 800px;
-    margin-left: auto;
+    max-width: 70%;
     margin-right: auto;
+    margin-left: auto;
     font-family: 'Secular One', sans-serif;
+    background-color: rgba(50,50,50,0.3);
+    font-size: 80%;
 }
 
-#numberLink{
+.numberLink{
     color: azure;
 }
 
 #contactInfo{
+    color: azure;
+    background-color: rgba(50,50,50,0.3);
     border-top-style: double;
-    border-top-color: chartreuse;
+    border-top-color: dodgerblue;
     border-bottom-style: double;
-    border-bottom-color: chartreuse;
+    border-bottom-color: dodgerblue;
+    margin-right: auto;
+    margin-left: auto;
     text-align: center;
-    font-size: 30px;
+    font-size: 200%;
+    max-width: 70%;
 }
 
 h1 {
+    font-size: 700%;
+    max-width: 70%;
+    color: dodgerblue;
     font-family: 'David CLM', serif;
-    color: #d26eff;
     text-align: center;
-    font-size: 60px;
     text-decoration: underline;
-}
-#myName{
-    color: #d26eff;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
 
 
-
-h2 {
-    color: #d26eff;
+.h2{
+    color: rgba(30, 144, 255, 0.7);
+    background-color: rgba(34, 34, 34, 0.4);
     text-align: center;
-    font-size: 30px;
+    font-size: 400%;
     text-decoration: underline;
-    padding: 35px;
     border: solid;
-    border-bottom-color: #d26eff;
+    border-color: dodgerblue;
 }
 
 h3 {
     text-align: right;
-    font-size: 30px;
+    font-size: 250%;
 }
 
 h4 {
-    font-size: 25px;
+    font-size: 200%;
     font-weight: bold;
 }
 
 dt.listDescription{
-    font-size: 25px;
+    font-size: 200%;
     font-weight: bold;
     padding-bottom: 10px;
 }
@@ -68,17 +80,21 @@ ul.workHistory{
 }
 
 ul.workHistory li{
-    margin-right: 35px;
+    margin-right: 10%;
 }
 
 dd{
-    font-size: 18px;
-    padding-bottom: 10px;
-    padding-top: 5px;
+    font-size: 150%;
+    padding-bottom: 5%;
+    padding-top: 2%;
 }
 li {
     font-size: larger;
 }
 
-.LI-profile-badge{
+.linkBar{
+    position: fixed;
+    background-color: rgba(50,50,50,0.8);
+    width: 100%;
+    bottom: 0;
 }
