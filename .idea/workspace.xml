@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9fe98e5-f203-4638-a6e4-b6cd4e4612a4" name="Default" comment="thing">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thumbs.db" afterPath="$PROJECT_DIR$/Thumbs.db" />
+    <list default="true" id="d9fe98e5-f203-4638-a6e4-b6cd4e4612a4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yuvalJs.js" afterPath="$PROJECT_DIR$/yuvalJs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yuvalStyle.css" afterPath="$PROJECT_DIR$/yuvalStyle.css" />
     </list>
     <ignored path="yuvaltech.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -792,7 +788,7 @@
       <workItem from="1471670172626" duration="2620000" />
       <workItem from="1471716624980" duration="170000" />
       <workItem from="1471716825256" duration="72000" />
-      <workItem from="1471717236752" duration="478000" />
+      <workItem from="1471717236752" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="thing">
       <created>1471480718342</created>
@@ -808,11 +804,18 @@
       <option name="project" value="LOCAL" />
       <updated>1471533743885</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added photo as background, &#10;added social buttons.&#10;added bootstrap.&#10;">
+      <created>1471717824133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1471717824133</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35170000" />
+    <option name="totallyTimeSpent" value="35284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1021" extended-state="6" />
@@ -858,7 +861,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="thing" />
-    <option name="LAST_COMMIT_MESSAGE" value="thing" />
+    <MESSAGE value="added photo as background, &#10;added social buttons.&#10;added bootstrap.&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added photo as background, &#10;added social buttons.&#10;added bootstrap.&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
